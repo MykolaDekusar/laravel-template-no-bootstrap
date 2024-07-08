@@ -13,9 +13,6 @@
     <h1>
         Template
     </h1>
-
-    <img src="{{ Vite::asset('resources/img/duck.jpg') }}" alt="Paperella Laravel Template">
-
 </body>
 
 </html>
